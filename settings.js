@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94763427338']
-global.premium = ['94763427338']
-global.ownernomer = '94763427338'
+global.owner = ['94740120962']
+global.premium = ['94740120962']
+global.ownernomer = '94740120962'
 global.ownername = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
-global.botname = 'VIHANGA MD BOT'
-global.footer = 'VIHANGA MD'
+global.botname = 'ACHIYA MD BOT'
+global.footer = 'ACHIYA MD'
 global.cap = '*Genarated By Vihanga Md*'
 global.ig = 'https://github.com/vihangabot'
 global.region = 'Sri Lanka, Sabaragamuwa, Embilipitiya'
 global.sc = 'https://github.com/vihangabot'
 global.myweb = 'https://chat.whatsapp.com/BDge3i6chrQKWkkSRellyT'
-global.packname = 'Vihanga Md Sticker Bot'
+global.packname = 'ACHIYA Md Sticker Bot'
 global.author = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
 global.autobio = 'true'
 global.sessionName = 'session'
@@ -46,7 +46,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'ටිකක් ඉන්න...',
+    wait: 'Wait...',
     error: 'අව්ලක්.වීඩියො එක ලොකු වැඩි ඇති🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
